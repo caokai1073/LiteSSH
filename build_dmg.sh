@@ -158,7 +158,7 @@ hdiutil create \
     -fs        HFS+ \
     -format    UDZO \
     -imagekey  zlib-level=9 \
-    -o         "$SCRIPT_DIR/$DMG_NAME" > /dev/null
+    -o         "$SCRIPT_DIR/$APP_NAME-$VERSION" > /dev/null
 rm -rf "$TMP_DIR"
 ok "DMG: $SCRIPT_DIR/$DMG_NAME"
 
