@@ -1,0 +1,145 @@
+{
+  "": {
+    "dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSH.d",
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSH.o",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/primary.swiftdeps"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/LiteSSHApp.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSHApp.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSHApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSHApp.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/LiteSSHApp.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Localization.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/Localization.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/Localization~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/Localization.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/Localization.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Models/FileNode.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileNode.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileNode.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileNode.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Models/RemoteFile.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFile.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFile~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFile.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFile.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Models/ServerProfile.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerProfile.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerProfile~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerProfile.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerProfile.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Services/AskPassHelper.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/AskPassHelper.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/AskPassHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/AskPassHelper.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/AskPassHelper.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Services/KeychainHelper.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/KeychainHelper.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/KeychainHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/KeychainHelper.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/KeychainHelper.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Services/ProcessRunner.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProcessRunner.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProcessRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProcessRunner.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProcessRunner.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Services/ProfileStore.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProfileStore.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProfileStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProfileStore.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ProfileStore.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Services/SSHConnection.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SSHConnection.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SSHConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SSHConnection.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SSHConnection.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/ViewModels/FileBrowserStore.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileBrowserStore.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileBrowserStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileBrowserStore.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileBrowserStore.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/ViewModels/FileTreeStore.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileTreeStore.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileTreeStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileTreeStore.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/FileTreeStore.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/ViewModels/SessionStore.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SessionStore.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SessionStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SessionStore.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/SessionStore.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/ContentView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ContentView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ContentView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/DetailView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/DetailView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/DetailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/DetailView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/DetailView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/EmptyStateView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/EmptyStateView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/EmptyStateView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/EmptyStateView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/EmptyStateView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Files/CrossTransferSheet.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/CrossTransferSheet.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/CrossTransferSheet~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/CrossTransferSheet.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/CrossTransferSheet.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Files/RemoteFileBrowserView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileBrowserView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileBrowserView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileBrowserView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileBrowserView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Files/RemoteFileRow.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileRow.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileRow.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/RemoteFileRow.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Sidebar/ServerEditView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerEditView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerEditView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerEditView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerEditView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Sidebar/ServerListView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerListView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerListView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/ServerListView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Terminal/TerminalContainerView.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalContainerView.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalContainerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalContainerView.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalContainerView.dia"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/Sources/LiteSSH/Views/Terminal/TerminalViewRegistry.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalViewRegistry.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalViewRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalViewRegistry.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/LiteSSH.build/TerminalViewRegistry.dia"
+  }
+}

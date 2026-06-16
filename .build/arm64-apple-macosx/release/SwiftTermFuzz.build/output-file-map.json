@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/SwiftTermFuzz.d",
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/SwiftTermFuzz.o",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/primary.swiftdeps"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/checkouts/SwiftTerm/Sources/SwiftTermFuzz/main.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/SwiftTermFuzz.build/main.dia"
+  }
+}

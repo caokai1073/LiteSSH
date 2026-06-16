@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.d",
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.o",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/primary.swiftdeps"
+  },
+  "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "object": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swiftdeps",
+    "diagnostics": "/Users/caokai/Library/CloudStorage/OneDrive-Personal/idea/SSH/SSH tool/LiteSSH/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.dia"
+  }
+}
