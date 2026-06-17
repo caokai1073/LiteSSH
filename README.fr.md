@@ -16,7 +16,7 @@
 
 ## Télécharger
 
-[**→ Télécharger la dernière version**](https://github.com/YOUR_USERNAME/LiteSSH/releases/latest)
+[**→ Télécharger la dernière version**](https://github.com/caokai1073/LiteSSH/releases/latest)
 
 Nécessite macOS 13 Ventura ou version ultérieure. Ouvrez le `.dmg` et faites glisser **LiteSSH** dans le dossier Applications.
 

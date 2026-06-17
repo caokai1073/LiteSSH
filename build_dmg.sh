@@ -122,8 +122,13 @@ for PT in 16 32 128 256 512; do
 done
 
 iconutil -c icns "$ICONSET" -o "$APP_BUNDLE/Contents/Resources/AppIcon.icns"
-rm -rf "$ICONSET" "$TMP_PNG"
-ok "Icon: AppIcon.icns"
+rm -rf "$ICONSET"
+
+# Also save icon PNG to assets/ for README display
+mkdir -p "$SCRIPT_DIR/assets"
+cp "$TMP_PNG" "$SCRIPT_DIR/assets/icon.png"
+rm -f "$TMP_PNG"
+ok "Icon: AppIcon.icns + assets/icon.png"
 
 # ── 4. Ad-hoc code signing ───────────────────────────────────
 # A proper Developer ID signature lets you distribute to others without
@@ -146,7 +151,7 @@ ICNS_CHECK="$APP_BUNDLE/Contents/Resources/AppIcon.icns"
 ok "Bundle looks good"
 
 # ── 6. Package as DMG ────────────────────────────────────────
-step "Creating $DMG_NAME…"
+step "Creating ${DMG_NAME}..."
 TMP_DIR=$(mktemp -d)
 cp -r "$APP_BUNDLE" "$TMP_DIR/"
 ln -s /Applications "$TMP_DIR/Applications"

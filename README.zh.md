@@ -16,7 +16,7 @@
 
 ## 下载
 
-[**→ 下载最新版本**](https://github.com/YOUR_USERNAME/LiteSSH/releases/latest)
+[**→ 下载最新版本**](https://github.com/caokai1073/LiteSSH/releases/latest)
 
 需要 macOS 13 Ventura 或更高版本。打开 `.dmg`，将 **LiteSSH** 拖入应用程序文件夹即可。
 
